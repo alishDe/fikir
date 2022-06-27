@@ -1,0 +1,227 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    border: 2px solid rgb(0, 0, 0) none ;
+    position: relative;
+    background-color:rgb(255, 255, 255);
+  width: 900px;
+  top: 30px;
+    height: 3050px;
+    display: block;
+    margin-left: 600px;
+
+    display: block;
+}
+.header-img__img{
+    padding: 5px;
+    height: 35px;
+    position: relative;
+    top: 38px;
+    left: 35px;
+}
+.boxp_p_tex{
+    
+    position: relative;
+    text-align: center;
+    border: 1px solid black none;
+    color: aliceblue;
+    padding: 5px;
+    background-color: black;
+    border-radius: 15px;
+    width: 150px;
+    left: 705px;
+    bottom: 3px;
+}
+.box-img__imgone{
+    position: relative;
+    left: 670px;
+    bottom: 24px;
+    display: block;
+    
+}
+.imgtve{
+    position: relative;
+    left: 663px;
+    bottom: 50px;
+    width: 35px;
+}
+a{
+    color: black;
+    text-decoration: none;
+    
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+.ul-li_tex{
+    list-style: none;
+    padding: 20px;
+    position: relative;
+    bottom: 60px;
+    left: 250px;
+}
+.box2-imgrasim{
+    width: 450px;
+    position: relative;
+    left: 400px;
+    top: 50px;
+}
+.box2{
+    border: 2px solid black none;
+    width: 900px;
+    height: 700px;
+    display: block;
+    position: relative;
+    bottom: 50px;
+    background-color: gainsboro;
+}
+.box2-img__rasim{
+width: 400px;
+position: relative;
+bottom: 100px;
+right: 380px;
+
+}
+.a{
+    display: flex;
+}
+.box2-img__yozuvlar{
+    position: relative;
+    top: 90px;
+    width: 900px;
+}
+
+.bo3-h1__tex{
+    position: relative;
+    left: 100px;
+}
+ .bo3-p__texone{
+    position: relative;
+    left: 100px;
+ }   
+ .bo3-p__textwe{
+    border: 2px solid black none;
+    background-color: black;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    color: aliceblue;
+    border-radius: 30px;
+    position: relative;
+    left: 90px;
+    top: 20px;
+ }
+ .box3-img__mexanizimrasim{
+    width: 370px;
+    position: relative;
+    left: 480px;
+bottom: 160px;
+ }
+ .box4-h1__texthre{
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    top: 100px;
+ }
+ .raqam{
+    font-size: 49px;
+    position: relative;
+    left: 100px;
+    top: 150px;
+ }
+ .texfotiy{
+    position: relative;
+    left: 55px;
+    top: 160px;
+ }
+ .raqa{
+    text-align: center;
+    font-size: 49px;
+    position: relative;
+    top: 57px;
+ }
+ .raq{
+    text-align: end;
+    position: relative;
+bottom: 2px;
+    font-size: 49px;
+    right: 100px;
+ }
+ .raqaniki{
+    text-align: center;
+    position: relative;
+    top: 9px;
+ }
+ .raqniki{
+    text-align: end;
+    position: relative;
+    bottom: 30px;
+    right: 100px;
+ }
+ .box4{
+border: 2px solid black none;
+width:900px ;
+position: relative;
+bottom: 100px;
+display: block;
+height: 430px;
+background-color: gainsboro;
+}
+.box5_img_texsex{
+    position: relative;
+    left: 50px;
+    top: 30px;
+    display: block;
+    height: 450px;
+}
+.box5__vidio{
+    width: 100px;
+}
+.vidio{
+    display: block;
+    width: 380px;
+position: relative;
+left: 450px;
+bottom: 300px;
+}
+.goolrasim{
+    width: 900px;
+    position: relative;
+    right: 2px;
+    border: 1px solid black none;
+    top: 50px;
+}
+.box7{
+    border: 1px solid black none;
+    position: relative;
+    top: 45px;
+    height: 500px;
+}
+.box7-h1texsevin{
+    text-align: center;
+    position: relative;
+    top: 70px;
+    font-size: 50px;
+}
+.box7-h2tex{
+    text-align: center;
+    position: relative;
+    top: 90px;
+    font-size: 35px;
+}
+.box7-p-texetiy{
+    text-align: center;
+    position: relative;
+    border: 3px padding solid black none;
+    border-radius: 9px;
+    top: 120px;
+    width: 150px;
+    padding: 5px;
+    left: 380px;
+    color: aliceblue;
+    background-color: black;
+}
